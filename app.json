@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Naily",
+    "slug": "naily",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "naily",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "게시글에 네일 사진을 추가하려면 사진 보관함 접근이 필요합니다.",
+          "cameraPermission": false,
+          "microphonePermission": false
+        }
+      ],
+      "expo-font",
+      "expo-video",
+      "expo-asset"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.naily.app"
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "resize",
+      "package": "com.naily.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

@@ -1,0 +1,1692 @@
+[
+  {
+    "path": "app/booking.tsx",
+    "name": "successIcon",
+    "exception": "{ width: 38, height: 38, borderRadius: 19, textAlign: 'center', lineHeight: 38, color: '#FFFFFF', backgroundColor: COLORS.success, fontSize: 18, fontWeight: '900' }"
+  },
+  {
+    "path": "app/booking.tsx",
+    "name": "successTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/booking.tsx",
+    "name": "successText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/booking.tsx",
+    "name": "step",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/booking.tsx",
+    "name": "designTitle",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/booking.tsx",
+    "name": "shopName",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/booking.tsx",
+    "name": "shopSub",
+    "token": "caption"
+  },
+  {
+    "path": "app/booking.tsx",
+    "name": "day",
+    "token": "caption"
+  },
+  {
+    "path": "app/booking.tsx",
+    "name": "dateNumber",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/booking.tsx",
+    "name": "timeText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "title",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "subtitle",
+    "token": "caption"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "sortText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "uploaderFallbackText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "uploaderName",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "uploadedAt",
+    "token": "caption"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "likeCount",
+    "token": "caption"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "postButtonText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "empty",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "viewerTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "viewerUploader",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/design-gallery.tsx",
+    "name": "viewerDate",
+    "token": "caption"
+  },
+  {
+    "path": "app/image-decorator.tsx",
+    "name": "headerTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/image-decorator.tsx",
+    "name": "cancelText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/image-decorator.tsx",
+    "name": "doneText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/image-decorator.tsx",
+    "name": "dragHint",
+    "token": "caption"
+  },
+  {
+    "path": "app/image-decorator.tsx",
+    "name": "panelLabel",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/image-decorator.tsx",
+    "name": "toolText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/image-decorator.tsx",
+    "name": "toolTextActive",
+    "token": "weight-only"
+  },
+  {
+    "path": "app/image-decorator.tsx",
+    "name": "textInput",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "app/image-decorator.tsx",
+    "name": "noSelection",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/image-decorator.tsx",
+    "name": "emptyTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "sectionTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "sectionMeta",
+    "token": "caption"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "moreText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "resultHeaderTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "resultHeaderMeta",
+    "token": "caption"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "resultHeaderActionText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "recentActionText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "recentActionDivider",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "recentText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "rank",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "rankingText",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "keywordText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "suggestionHeading",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "suggestionText",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "suggestionCategory",
+    "token": "caption"
+  },
+  {
+    "path": "app/search.tsx",
+    "name": "searchAllText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop-community.tsx",
+    "name": "lockText",
+    "exception": "{ color: '#FFFFFF', fontSize: 28, fontWeight: '900' }"
+  },
+  {
+    "path": "app/shop-community.tsx",
+    "name": "guideEyebrow",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop-community.tsx",
+    "name": "guideTitle",
+    "token": "titleLarge"
+  },
+  {
+    "path": "app/shop-community.tsx",
+    "name": "guideText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop-community.tsx",
+    "name": "introLabel",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop-community.tsx",
+    "name": "introTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/shop-community.tsx",
+    "name": "introText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop-community.tsx",
+    "name": "categoryText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop-community.tsx",
+    "name": "fabText",
+    "exception": "{ color: '#FFFFFF', fontSize: 29 }"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "guideIcon",
+    "exception": "{ width: 70, height: 70, borderRadius: 35, backgroundColor: COLORS.lightPink, color: COLORS.primary, fontSize: 28, textAlign: 'center', lineHeight: 70 }"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "guideTitle",
+    "token": "titleLarge"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "guideText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "step",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "shopName",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "verified",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "shopStats",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "metricValue",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "metricLabel",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "sectionTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "toolIconText",
+    "exception": "{ color: COLORS.primary, fontSize: 14, fontWeight: '900' }"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "toolTitle",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "toolText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "more",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "communityLabel",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "communityTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "communityText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop-dashboard.tsx",
+    "name": "communityArrow",
+    "exception": "{ color: '#7C695D', fontSize: 28 }"
+  },
+  {
+    "path": "app/(tabs)/community.tsx",
+    "name": "shopLinkText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/(tabs)/community.tsx",
+    "name": "feedText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/(tabs)/community.tsx",
+    "name": "feedTextActive",
+    "token": "weight-only"
+  },
+  {
+    "path": "app/(tabs)/community.tsx",
+    "name": "errorText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/(tabs)/community.tsx",
+    "name": "followGuideTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/(tabs)/community.tsx",
+    "name": "followGuideText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/(tabs)/community.tsx",
+    "name": "suggestionInitial",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/(tabs)/community.tsx",
+    "name": "suggestionName",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/(tabs)/community.tsx",
+    "name": "suggestionDescription",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/(tabs)/community.tsx",
+    "name": "followButtonText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "headerTitle",
+    "token": "titleLarge"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "settings",
+    "exception": "{ color: COLORS.text, fontSize: 20 }"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "nickname",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "editText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "shopBannerLabel",
+    "token": "caption"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "shopBannerTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "shopBannerText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "shopBannerArrow",
+    "exception": "{ color: COLORS.secondary, fontSize: 29 }"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "sectionTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "menuIcon",
+    "exception": "{ color: COLORS.primary, fontSize: 17, width: 31 }"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "menuTitle",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/(tabs)/mypage.tsx",
+    "name": "menuValue",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "title",
+    "token": "titleLarge"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "link",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "eyebrow",
+    "token": "caption"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "heroTitle",
+    "token": "display"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "supporting",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "ctaText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "sectionTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "chipText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "shopName",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "meta",
+    "token": "caption"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "price",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "empty",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/(tabs)/reservation.tsx",
+    "name": "demo",
+    "token": "caption"
+  },
+  {
+    "path": "app/design/[id].tsx",
+    "name": "albumButtonText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/design/[id].tsx",
+    "name": "title",
+    "token": "titleLarge"
+  },
+  {
+    "path": "app/design/[id].tsx",
+    "name": "description",
+    "token": "bodyLarge"
+  },
+  {
+    "path": "app/design/[id].tsx",
+    "name": "tagText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/design/[id].tsx",
+    "name": "priceLabel",
+    "token": "caption"
+  },
+  {
+    "path": "app/design/[id].tsx",
+    "name": "price",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/design/[id].tsx",
+    "name": "priceHint",
+    "token": "caption"
+  },
+  {
+    "path": "app/design/[id].tsx",
+    "name": "socialLabel",
+    "token": "caption"
+  },
+  {
+    "path": "app/design/[id].tsx",
+    "name": "sectionTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/design/[id].tsx",
+    "name": "sectionDescription",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "topTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "privateText",
+    "token": "caption"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "category",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "title",
+    "token": "titleLarge"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "tagText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "avatarText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "authorName",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "date",
+    "token": "caption"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "socialLabel",
+    "token": "caption"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "commentTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "commentCount",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "commentAvatarText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "commentName",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "commentDate",
+    "token": "caption"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "commentContent",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "reply",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "noComment",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "replyingText",
+    "token": "caption"
+  },
+  {
+    "path": "app/post/[id].tsx",
+    "name": "commentTextInput",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "photoCountText",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "eyebrow",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "verifiedText",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "title",
+    "token": "titleLarge"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "rating",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "reviewLink",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "openState",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "description",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "quickLabel",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "quickLabelActive",
+    "token": "weight-only"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "tabText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "activeTabText",
+    "token": "weight-only"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "infoTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "infoTrailing",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "infoText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "infoHint",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "hoursDay",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "mapLabel",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "mapOpenText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "expandText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "weekDay",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "weekTime",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "closedDay",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "amenityText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "noticeLabel",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "noticeTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "noticeHint",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "sectionTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "sectionDescription",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "sectionAction",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "priceName",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "priceDetail",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "priceValue",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "priceFootnote",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "reviewScore",
+    "token": "display"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "reviewSummaryText",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id].tsx",
+    "name": "emptyText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop/[id]/account.tsx",
+    "name": "name",
+    "token": "titleLarge"
+  },
+  {
+    "path": "app/shop/[id]/account.tsx",
+    "name": "handle",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id]/account.tsx",
+    "name": "bio",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop/[id]/account.tsx",
+    "name": "statValue",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id]/account.tsx",
+    "name": "statLabel",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id]/account.tsx",
+    "name": "followText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id]/account.tsx",
+    "name": "messageText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id]/account.tsx",
+    "name": "sectionTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/shop/[id]/account.tsx",
+    "name": "sectionCount",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id]/designs.tsx",
+    "name": "summary",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop/[id]/gallery.tsx",
+    "name": "title",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/shop/[id]/gallery.tsx",
+    "name": "counter",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id]/map.tsx",
+    "name": "shopLabelText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop/[id]/map.tsx",
+    "name": "routeTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/shop/[id]/map.tsx",
+    "name": "address",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop/[id]/map.tsx",
+    "name": "routeTime",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id]/map.tsx",
+    "name": "routeDistance",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id]/map.tsx",
+    "name": "arriveText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art-viewer.tsx",
+    "name": "title",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art-viewer.tsx",
+    "name": "counter",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art-viewer.tsx",
+    "name": "priceLabel",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art-viewer.tsx",
+    "name": "mediaType",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art-viewer.tsx",
+    "name": "price",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "dateText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "pageCount",
+    "token": "caption"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "cardTitle",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "cardPrice",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "emptyTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "emptyText",
+    "token": "bodySmall"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "pickerCancel",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "pickerTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "pickerDone",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "pickerOptionText",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "app/shop/[id]/monthly-art.tsx",
+    "name": "pickerOptionTextActive",
+    "token": "weight-only"
+  },
+  {
+    "path": "app/shop/[id]/reviews.tsx",
+    "name": "score",
+    "token": "display"
+  },
+  {
+    "path": "app/shop/[id]/reviews.tsx",
+    "name": "meta",
+    "token": "caption"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "socialTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "socialPreview",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "readMore",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "nailTagText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "engagementText",
+    "token": "caption"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "avatarText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "category",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "author",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "date",
+    "token": "caption"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "title",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "featuredTitle",
+    "token": "titleMedium"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "preview",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/BlogPostCard.tsx",
+    "name": "statText",
+    "token": "caption"
+  },
+  {
+    "path": "components/CommunityRefreshFeedback.tsx",
+    "name": "text",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/CommunityResultCard.tsx",
+    "name": "category",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/CommunityResultCard.tsx",
+    "name": "title",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/CommunityResultCard.tsx",
+    "name": "preview",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/CommunityResultCard.tsx",
+    "name": "stats",
+    "token": "caption"
+  },
+  {
+    "path": "components/DesignResultCard.tsx",
+    "name": "title",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/DesignResultCard.tsx",
+    "name": "price",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/DesignResultCard.tsx",
+    "name": "smallTag",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/DesignResultCard.tsx",
+    "name": "likeCount",
+    "token": "caption"
+  },
+  {
+    "path": "components/EmptyState.tsx",
+    "name": "icon",
+    "exception": "{ color: COLORS.primary, fontSize: 42 }"
+  },
+  {
+    "path": "components/EmptyState.tsx",
+    "name": "title",
+    "token": "titleSmall"
+  },
+  {
+    "path": "components/EmptyState.tsx",
+    "name": "message",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/PostBlockRenderer.tsx",
+    "name": "heading",
+    "token": "titleMedium"
+  },
+  {
+    "path": "components/PostBlockRenderer.tsx",
+    "name": "text",
+    "token": "bodyLarge"
+  },
+  {
+    "path": "components/PrimaryButton.tsx",
+    "name": "label",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/ReservationCard.tsx",
+    "name": "shop",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/ReservationCard.tsx",
+    "name": "statusText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/ReservationCard.tsx",
+    "name": "design",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/ReservationCard.tsx",
+    "name": "date",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/ReviewCard.tsx",
+    "name": "avatarText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/ReviewCard.tsx",
+    "name": "name",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/ReviewCard.tsx",
+    "name": "stars",
+    "token": "caption"
+  },
+  {
+    "path": "components/ReviewCard.tsx",
+    "name": "date",
+    "token": "caption"
+  },
+  {
+    "path": "components/ReviewCard.tsx",
+    "name": "content",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "components/RoleBadge.tsx",
+    "name": "label",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/ScreenHeader.tsx",
+    "name": "backText",
+    "exception": "{ color: COLORS.text, fontSize: 34, lineHeight: 37, fontWeight: '300' }"
+  },
+  {
+    "path": "components/ScreenHeader.tsx",
+    "name": "title",
+    "token": "titleSmall"
+  },
+  {
+    "path": "components/SearchTopArea.tsx",
+    "name": "brand",
+    "exception": "{ color: COLORS.text, fontSize: 30, fontWeight: '900', letterSpacing: -1.2 }"
+  },
+  {
+    "path": "components/SearchTopArea.tsx",
+    "name": "subtitle",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/SearchTopArea.tsx",
+    "name": "bellText",
+    "exception": "{ color: COLORS.primary, fontSize: 22, fontWeight: '700' }"
+  },
+  {
+    "path": "components/SearchTopArea.tsx",
+    "name": "icon",
+    "exception": "{ color: COLORS.text, fontSize: 24, marginRight: 9, transform: [{ rotate: '-20deg' }] }"
+  },
+  {
+    "path": "components/SearchTopArea.tsx",
+    "name": "placeholder",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "components/SearchTopArea.tsx",
+    "name": "input",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "components/ShopCommunityCard.tsx",
+    "name": "lockText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/ShopCommunityCard.tsx",
+    "name": "category",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/ShopCommunityCard.tsx",
+    "name": "date",
+    "token": "caption"
+  },
+  {
+    "path": "components/ShopCommunityCard.tsx",
+    "name": "title",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/ShopCommunityCard.tsx",
+    "name": "preview",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/ShopCommunityCard.tsx",
+    "name": "author",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/ShopCommunityCard.tsx",
+    "name": "stats",
+    "token": "caption"
+  },
+  {
+    "path": "components/ShopResultCard.tsx",
+    "name": "name",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/ShopResultCard.tsx",
+    "name": "statusText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/ShopResultCard.tsx",
+    "name": "address",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/ShopResultCard.tsx",
+    "name": "rating",
+    "token": "caption"
+  },
+  {
+    "path": "components/ShopResultCard.tsx",
+    "name": "review",
+    "token": "weight-only"
+  },
+  {
+    "path": "components/TagChip.tsx",
+    "name": "label",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/home/HomeAdBanner.tsx",
+    "name": "adLabelText",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/HomeAdBanner.tsx",
+    "name": "sponsored",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/HomeAdBanner.tsx",
+    "name": "title",
+    "token": "titleLarge"
+  },
+  {
+    "path": "components/home/HomeAdBanner.tsx",
+    "name": "description",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/home/HomeAdBanner.tsx",
+    "name": "ctaText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/home/HomeAdBanner.tsx",
+    "name": "ctaArrow",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/home/HomeImage.tsx",
+    "name": "fallbackText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/home/HomeStickyHeader.tsx",
+    "name": "wordmark",
+    "exception": "{\n    color: COLORS.text,\n    fontSize: 25,\n    lineHeight: 29,\n    fontWeight: '900',\n    letterSpacing: -1,\n  }"
+  },
+  {
+    "path": "components/home/HomeStickyHeader.tsx",
+    "name": "greeting",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/home/HomeStickyHeader.tsx",
+    "name": "notificationIcon",
+    "exception": "{\n    color: '#9D6273',\n    fontSize: 20,\n    fontWeight: '800',\n  }"
+  },
+  {
+    "path": "components/home/HomeStickyHeader.tsx",
+    "name": "searchPlaceholder",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "components/home/HomeStickyHeader.tsx",
+    "name": "searchHintText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/home/MagazineSection.tsx",
+    "name": "category",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/home/MagazineSection.tsx",
+    "name": "title",
+    "token": "titleLarge"
+  },
+  {
+    "path": "components/home/MagazineSection.tsx",
+    "name": "description",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/home/MagazineSection.tsx",
+    "name": "author",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/home/MagazineSection.tsx",
+    "name": "reading",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/MagazineSection.tsx",
+    "name": "decoratedMetaText",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/MonthlyArtSection.tsx",
+    "name": "shop",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/home/MonthlyArtSection.tsx",
+    "name": "originalPrice",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/MonthlyArtSection.tsx",
+    "name": "price",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/home/MonthlyArtSection.tsx",
+    "name": "likes",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/NearbyShopsSection.tsx",
+    "name": "distance",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/NearbyShopsSection.tsx",
+    "name": "reserveText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/home/NearbyShopsSection.tsx",
+    "name": "name",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/home/NearbyShopsSection.tsx",
+    "name": "rating",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/NearbyShopsSection.tsx",
+    "name": "review",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/NearbyShopsSection.tsx",
+    "name": "area",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/NearbyShopsSection.tsx",
+    "name": "tagText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/home/PopularCommunitySection.tsx",
+    "name": "author",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/home/PopularCommunitySection.tsx",
+    "name": "verifiedText",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/PopularCommunitySection.tsx",
+    "name": "time",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/PopularCommunitySection.tsx",
+    "name": "title",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/home/PopularCommunitySection.tsx",
+    "name": "preview",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/home/PopularCommunitySection.tsx",
+    "name": "stat",
+    "token": "caption"
+  },
+  {
+    "path": "components/home/SectionHeader.tsx",
+    "name": "title",
+    "token": "titleMedium"
+  },
+  {
+    "path": "components/home/SectionHeader.tsx",
+    "name": "subtitle",
+    "token": "bodySmall"
+  },
+  {
+    "path": "components/home/SectionHeader.tsx",
+    "name": "actionText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/home/SectionHeader.tsx",
+    "name": "chevron",
+    "exception": "{\n    color: '#8A737A',\n    fontSize: 18,\n    marginLeft: 4,\n    marginTop: -1,\n  }"
+  },
+  {
+    "path": "components/search/SearchCategoryTabs.tsx",
+    "name": "label",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/search/SearchCategoryTabs.tsx",
+    "name": "selectedLabel",
+    "token": "weight-only"
+  },
+  {
+    "path": "components/search/SearchFilterSheet.tsx",
+    "name": "title",
+    "token": "titleSmall"
+  },
+  {
+    "path": "components/search/SearchFilterSheet.tsx",
+    "name": "sectionTitle",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/search/SearchFilterSheet.tsx",
+    "name": "chipText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/search/SearchFilterSheet.tsx",
+    "name": "activeChipText",
+    "token": "weight-only"
+  },
+  {
+    "path": "components/search/SearchFilterSheet.tsx",
+    "name": "resetText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/search/SearchFilterSheet.tsx",
+    "name": "applyText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/search/SearchInput.tsx",
+    "name": "input",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "components/search/SearchSortSheet.tsx",
+    "name": "title",
+    "token": "titleSmall"
+  },
+  {
+    "path": "components/search/SearchSortSheet.tsx",
+    "name": "optionText",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "components/search/SearchSortSheet.tsx",
+    "name": "selectedText",
+    "token": "weight-only"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "appTitle",
+    "token": "titleSmall"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "submitText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "categoryText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "account",
+    "token": "caption"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "titleInput",
+    "token": "titleMedium"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "tagText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "optionText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "tagInput",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "hint",
+    "token": "caption"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "previewCategory",
+    "token": "labelMedium"
+  },
+  {
+    "path": "app/write.tsx",
+    "name": "previewTitle",
+    "token": "titleLarge"
+  },
+  {
+    "path": "components/BlogEditor.tsx",
+    "name": "textInput",
+    "token": "bodyMedium"
+  },
+  {
+    "path": "components/BlogEditor.tsx",
+    "name": "actionText",
+    "token": "labelLarge"
+  },
+  {
+    "path": "components/BlogEditor.tsx",
+    "name": "meta",
+    "token": "caption"
+  },
+  {
+    "path": "components/EditorToolbar.tsx",
+    "name": "toolText",
+    "token": "labelMedium"
+  },
+  {
+    "path": "components/WritingSheet.tsx",
+    "name": "title",
+    "token": "titleSmall"
+  }
+]
